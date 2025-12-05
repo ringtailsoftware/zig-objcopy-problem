@@ -1,3 +1,5 @@
+(update: This /is/ a zig bug, https://ziggit.dev/t/addobjcopy-producing-zero-padding-at-start-of-binary/13384)
+
 Demonstration of problem with zig 0.15.2 adding invalid padding in `addObjCopy()`
 
     zig version
