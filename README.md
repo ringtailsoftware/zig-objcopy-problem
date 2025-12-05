@@ -5,7 +5,7 @@ Demonstration of problem with zig 0.15.2 adding invalid padding in `addObjCopy()
 
     zig build
 
-The build produces and ELF binary and a raw binary:
+The build produces an ELF binary and a raw binary:
 
     file zig-out/bin/hello
     zig-out/bin/hello: ELF 32-bit LSB executable, UCB RISC-V, soft-float ABI, version 1 (SYSV), statically linked, stripped
